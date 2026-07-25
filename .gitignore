@@ -1,0 +1,26 @@
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+env/
+
+# IDE
+.vscode/
+.idea/
+
+# Operating systems
+.DS_Store
+Thumbs.db
+
+# Secrets and local configuration
+.env
+config.py
+secrets.h
+credentials.json
+
+# Generated files
+received.*
+*.hex
+*.pkl
+attendance.csv

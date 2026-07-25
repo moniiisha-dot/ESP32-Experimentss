@@ -1,2 +1,3 @@
-# ESP32-Experimentss
-A collection of ESP32 experiments involving sensors, LCD displays, Wi-Fi, Bluetooth and embedded-system protocols.
+# ESP32 Hardware Information
+
+Prints chip model, CPU information, flash size, free heap, and Wi-Fi MAC address.

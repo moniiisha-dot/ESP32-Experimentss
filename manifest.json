@@ -1,0 +1,18 @@
+{
+  "repository": "Monisha_ESP32_Experiments",
+  "experiments": [
+    "07_WiFi_TCP_Server",
+    "01_LED_Blink",
+    "11_Computer_WiFi_File_Transfer",
+    "12_ESP32_Hardware_Info",
+    "05_MPU6050_LCD",
+    "04_I2C_Scanner",
+    "08_ESP32_CAM_Test",
+    "03_I2C_LCD",
+    "09_ESP32_CAM_UART_Image_Transfer",
+    "06_Bluetooth_Serial",
+    "02_Serial_Communication",
+    "10_Face_Recognition_LCD_Bridge"
+  ],
+  "note": "Clean reconstructed GitHub-ready versions of previously discussed experiments."
+}
